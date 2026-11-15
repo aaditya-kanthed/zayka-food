@@ -11,3 +11,6 @@ desktop.ini
 # Dependencies & logs (if ever added)
 node_modules/
 *.log
+
+# Local-only leftovers (practice files, unused images)
+_extras/
