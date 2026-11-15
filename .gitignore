@@ -1,0 +1,13 @@
+# Editor / local tool settings
+.vscode/
+.claude/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies & logs (if ever added)
+node_modules/
+*.log
